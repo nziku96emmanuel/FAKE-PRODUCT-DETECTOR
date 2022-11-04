@@ -3,8 +3,8 @@
 ## Submitted By:
 bBoth From UQF 6 COMPUTER ENGINEERING
 
-- EMMANUEL DOWARD NZIKU
-- JOYCE BULENGA
+- EMMANUEL DOWARD NZIKU - 20100523050020
+- JOYCE SULEIMAN BULENGA - 20100523050031
 
 The project is called FAKE PRODUCT DETECTOR which is aimed 
 to help the Government to counterract the issue of fake products that
